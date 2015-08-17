@@ -1,0 +1,19 @@
+{
+	"songs": [
+	{
+		"title": "The Feast and the Famine",
+		"artist": "Foo Fighters",
+		"album": "Sonic Highways"
+	},
+	{
+		"title": "Big Day Coming",
+		"artist": "Yo La Tengo",
+		"album": "Painful"
+	},
+	{
+		"title": "Turn Away",
+		"artist": "Beck",
+		"album": "Morning Phase"
+	}
+	]
+}
